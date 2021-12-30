@@ -16,7 +16,11 @@ const solanaMetadata = {
   creators: [
     {
       address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
-      share: 100,
+      share: 90,
+    },
+    {
+      address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+      share: 10,
     },
   ],
 };
@@ -24,15 +28,16 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 5000,
     layersOrder: [
-      { name: "Background" },
-      { name: "Eyeball" },
-      { name: "Eye color" },
-      { name: "Iris" },
-      { name: "Shine" },
-      { name: "Bottom lid" },
-      { name: "Top lid" },
+       { name: "Background" },
+      { name: "hat" },
+       { name: "jeans" },
+      { name: "logo" },
+      { name: "shirt" },
+      { name: "shoes" },
+    //  {name: "Avatar3"}
+     
     ],
   },
 ];
@@ -42,8 +47,8 @@ const shuffleLayerConfigurations = false;
 const debugLogs = false;
 
 const format = {
-  width: 512,
-  height: 512,
+  width: 580,
+  height: 1080,
   smoothing: false,
 };
 
@@ -92,7 +97,7 @@ const preview = {
 };
 
 const preview_gif = {
-  numberOfImages: 5,
+  numberOfImages: 500,
   order: "ASC", // ASC, DESC, MIXED
   repeat: 0,
   quality: 100,
