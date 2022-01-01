@@ -16,19 +16,16 @@ const solanaMetadata = {
   creators: [
     {
       address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
-      share: 90,
-    },
-    {
-      address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
-      share: 10,
-    },
+      share: 100,
+    }
+    
   ],
 };
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5000,
+    growEditionSizeTo: 200,
     layersOrder: [
        { name: "Background" },
       { name: "hat" },

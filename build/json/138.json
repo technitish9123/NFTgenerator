@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #138",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/138.png",
+  "dna": "2bfe0f136f7cc4e133efdc90536c0c66f388fa59",
+  "edition": 138,
+  "date": 1641064198716,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "highlighter orange background"
+    },
+    {
+      "trait_type": "hat",
+      "value": "avatar purple hat"
+    },
+    {
+      "trait_type": "jeans",
+      "value": "avatar tan jeans"
+    },
+    {
+      "trait_type": "logo",
+      "value": "avatar purple logo"
+    },
+    {
+      "trait_type": "shirt",
+      "value": "avatar yellow shirt"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "avatar green shoes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
