@@ -1,18 +1,18 @@
 {
   "name": "Your Collection #83",
   "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/83.png",
-  "dna": "8afd1b3407ca4349f1c6087c3dcc890f68385f4a",
+  "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/83.png",
+  "dna": "4f4d3749458e234dc5e783038809eb96434352cd",
   "edition": 83,
-  "date": 1641103849156,
+  "date": 1641106901831,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter blue background"
+      "value": "highlighter light blue background"
     },
     {
       "trait_type": "hat",
-      "value": "avatar red hat"
+      "value": "avatar cyan hat"
     },
     {
       "trait_type": "jeans",
@@ -20,15 +20,15 @@
     },
     {
       "trait_type": "logo",
-      "value": "avatar purple logo"
+      "value": "avatar black logo"
     },
     {
       "trait_type": "shirt",
-      "value": "avatar orange shirt"
+      "value": "avatar grey shirt"
     },
     {
       "trait_type": "shoes",
-      "value": "avatar yellow shoes"
+      "value": "avatar green shoes"
     }
   ],
   "compiler": "HashLips Art Engine"
