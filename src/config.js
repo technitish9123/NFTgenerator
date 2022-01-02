@@ -9,20 +9,21 @@ const namePrefix = "Your Collection";
 const description = "Remember to replace this description";
 const baseUri = "ipfs://NewUriToReplace";
 
-const solanaMetadata = {
+const ethMetadata = {
   symbol: "YC",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
   external_url: "https://www.youtube.com/c/hashlipsnft",
   creators: [
     {
-      address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+      address: "0x6C2A780F93Ec560775133f3Ed2ae669744Fe0f49",
       share: 100,
     }
     
   ],
 };
 
-// If you have selected Solana then the collection starts from 0 automatically
+// If you have selected  then the collection starts from 0 automatically
+//
 const layerConfigurations = [
   {
     growEditionSizeTo: 200,
@@ -118,7 +119,7 @@ module.exports = {
   text,
   namePrefix,
   network,
-  solanaMetadata,
+  ethMetadata,
   gif,
   preview_gif,
 };

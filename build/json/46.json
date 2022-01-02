@@ -2,25 +2,25 @@
   "name": "Your Collection #46",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/46.png",
-  "dna": "dd162b069a0a42c2f5892b43cdc461fe9dd20fc6",
+  "dna": "6c34624e961175474283c22d77cfd78b64f089ba",
   "edition": 46,
-  "date": 1641064184156,
+  "date": 1641103846576,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter pink background"
+      "value": "highlighter yellow background"
     },
     {
       "trait_type": "hat",
-      "value": "avatar white hat"
+      "value": "avatar red hat"
     },
     {
       "trait_type": "jeans",
-      "value": "avatar blue jeans"
+      "value": "avatar dark blue jeans"
     },
     {
       "trait_type": "logo",
-      "value": "avatar white logo"
+      "value": "avatar purple logo"
     },
     {
       "trait_type": "shirt",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "shoes",
-      "value": "avatar purple shoes"
+      "value": "avatar cyan shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

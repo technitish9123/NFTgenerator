@@ -2,25 +2,25 @@
   "name": "Your Collection #16",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/16.png",
-  "dna": "58dfb621ecf362135ce500399ca77b3a5e889e7f",
+  "dna": "79bb07876fbba8397766608b3f8994b7b55222ba",
   "edition": 16,
-  "date": 1641064179475,
+  "date": 1641103844444,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter light blue background"
+      "value": "highlighter blue background"
     },
     {
       "trait_type": "hat",
-      "value": "avatar white hat"
+      "value": "avatar blue hat"
     },
     {
       "trait_type": "jeans",
-      "value": "avatar dark blue jeans"
+      "value": "avatar dark grey jeans"
     },
     {
       "trait_type": "logo",
-      "value": "avatar red logo"
+      "value": "avatar orange logo"
     },
     {
       "trait_type": "shirt",

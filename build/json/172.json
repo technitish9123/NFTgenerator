@@ -2,29 +2,29 @@
   "name": "Your Collection #172",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/172.png",
-  "dna": "17cce973ca58c30d53f8bdc96d3b4ba5becb9533",
+  "dna": "3945d3d10b3af5a5c7b5e36479d532c21117aed4",
   "edition": 172,
-  "date": 1641064204259,
+  "date": 1641103855290,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter yellow background"
+      "value": "highlighter light blue background"
     },
     {
       "trait_type": "hat",
-      "value": "avatar red hat"
+      "value": "avatar green hat"
     },
     {
       "trait_type": "jeans",
-      "value": "avatar tan jeans"
+      "value": "avatar blue jeans"
     },
     {
       "trait_type": "logo",
-      "value": "avatar red logo"
+      "value": "avatar blue logo"
     },
     {
       "trait_type": "shirt",
-      "value": "avatar blue shirt"
+      "value": "avatar purple shirt"
     },
     {
       "trait_type": "shoes",

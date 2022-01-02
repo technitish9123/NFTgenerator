@@ -2,33 +2,33 @@
   "name": "Your Collection #153",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/153.png",
-  "dna": "aeaff647bbb91758ab18bd2f0c9b2aa04706d2ec",
+  "dna": "78d3cb2819bea1dd239c8f5dfe8c9e408ede891d",
   "edition": 153,
-  "date": 1641064201151,
+  "date": 1641103853992,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter pink background"
+      "value": "highlighter orange background"
     },
     {
       "trait_type": "hat",
-      "value": "avatar blue hat"
+      "value": "avatar green hat"
     },
     {
       "trait_type": "jeans",
-      "value": "avatar dark blue jeans"
+      "value": "avatar dark grey jeans"
     },
     {
       "trait_type": "logo",
-      "value": "avatar white logo"
+      "value": "avatar black logo"
     },
     {
       "trait_type": "shirt",
-      "value": "avatar red shirt"
+      "value": "avatar orange shirt"
     },
     {
       "trait_type": "shoes",
-      "value": "avatar yellow shoes"
+      "value": "avatar pink shoes"
     }
   ],
   "compiler": "HashLips Art Engine"
