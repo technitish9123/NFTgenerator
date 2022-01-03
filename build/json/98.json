@@ -2,33 +2,33 @@
   "name": "Your Collection #98",
   "description": "Remember to replace this description",
   "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/98.png",
-  "dna": "10e788005847033a4f8c07e17d867bce3e8feae7",
+  "dna": "e8f38de9be5399220a68bc6fee17af408cba04ec",
   "edition": 98,
-  "date": 1641190050695,
+  "date": 1641229032667,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter blue background"
+      "value": "Orange"
     },
     {
-      "trait_type": "hat",
-      "value": "avatar white hat"
+      "trait_type": "Moose/Fur",
+      "value": "Moose_red"
     },
     {
-      "trait_type": "jeans",
-      "value": "avatar blue jeans"
+      "trait_type": "Moose/Mouth",
+      "value": "surprised"
     },
     {
-      "trait_type": "logo",
-      "value": "avatar purple logo"
+      "trait_type": "Headwear",
+      "value": "DaveyCrocketHat"
     },
     {
-      "trait_type": "shirt",
-      "value": "avatar pink shirt"
+      "trait_type": "Eyes",
+      "value": "Tired"
     },
     {
-      "trait_type": "shoes",
-      "value": "avatar cyan shoes"
+      "trait_type": "Cloth",
+      "value": "BasketballJersey"
     }
   ],
   "compiler": "HashLips Art Engine"

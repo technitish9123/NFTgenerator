@@ -2,33 +2,33 @@
   "name": "Your Collection #114",
   "description": "Remember to replace this description",
   "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/114.png",
-  "dna": "19d06ef93014e0c4bb2b1741d17a8415707f22ba",
+  "dna": "ca35556590323e69d5ce18d2ca395cc5a5f0e0de",
   "edition": 114,
-  "date": 1641190052731,
+  "date": 1641229035834,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter blue background"
+      "value": "ArmyGreen"
     },
     {
-      "trait_type": "hat",
-      "value": "avatar blue hat"
+      "trait_type": "Caribou/Fur",
+      "value": "caribou_white"
     },
     {
-      "trait_type": "jeans",
-      "value": "avatar tan jeans"
+      "trait_type": "Caribou/Mouth",
+      "value": "surprised"
     },
     {
-      "trait_type": "logo",
-      "value": "avatar orange logo"
+      "trait_type": "Headwear",
+      "value": "Torque"
     },
     {
-      "trait_type": "shirt",
-      "value": "avatar red shirt"
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
     },
     {
-      "trait_type": "shoes",
-      "value": "avatar pink shoes"
+      "trait_type": "Cloth",
+      "value": "BasketballJersey"
     }
   ],
   "compiler": "HashLips Art Engine"

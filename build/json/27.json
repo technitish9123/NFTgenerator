@@ -2,33 +2,33 @@
   "name": "Your Collection #27",
   "description": "Remember to replace this description",
   "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/27.png",
-  "dna": "e2a8206a1e884ae84870fdfe0ac1b987336f5a54",
+  "dna": "000471577e37170543f0846d48150ccbb07cc684",
   "edition": 27,
-  "date": 1641190039559,
+  "date": 1641229019008,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter light blue background"
+      "value": "ArmyGreen"
     },
     {
-      "trait_type": "hat",
-      "value": "avatar grey hat"
+      "trait_type": "Bear/Fur",
+      "value": "bear_red"
     },
     {
-      "trait_type": "jeans",
-      "value": "avatar dark grey jeans"
+      "trait_type": "Bear/Mouth",
+      "value": "angry"
     },
     {
-      "trait_type": "logo",
-      "value": "avatar yellow logo"
+      "trait_type": "Headwear",
+      "value": "AviatorHat"
     },
     {
-      "trait_type": "shirt",
-      "value": "avatar yellow shirt"
+      "trait_type": "Eyes",
+      "value": "VRHeadset"
     },
     {
-      "trait_type": "shoes",
-      "value": "avatar red shoes"
+      "trait_type": "Cloth",
+      "value": "TurtleNeck"
     }
   ],
   "compiler": "HashLips Art Engine"

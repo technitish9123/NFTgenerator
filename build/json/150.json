@@ -2,33 +2,33 @@
   "name": "Your Collection #150",
   "description": "Remember to replace this description",
   "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/150.png",
-  "dna": "ca59132586aba5da7065905d5ec3b14289396a6b",
+  "dna": "bb19e25085e5ca18f932bceebfccd484721b2589",
   "edition": 150,
-  "date": 1641190056798,
+  "date": 1641229042811,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter green background"
+      "value": "Grey"
     },
     {
-      "trait_type": "hat",
-      "value": "avatar grey hat"
+      "trait_type": "Caribou/Fur",
+      "value": "caribou_red"
     },
     {
-      "trait_type": "jeans",
-      "value": "avatar blue jeans"
+      "trait_type": "Caribou/Mouth",
+      "value": "happy"
     },
     {
-      "trait_type": "logo",
-      "value": "avatar red logo"
+      "trait_type": "Headwear",
+      "value": "CowboyHat"
     },
     {
-      "trait_type": "shirt",
-      "value": "avatar dark grey shirt"
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
     },
     {
-      "trait_type": "shoes",
-      "value": "avatar orange shoes"
+      "trait_type": "Cloth",
+      "value": "TurtleNeck"
     }
   ],
   "compiler": "HashLips Art Engine"

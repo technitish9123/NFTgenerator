@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #232",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/232.png",
+  "dna": "38a5122c9edc046090967218ca39a5192dd2fad7",
+  "edition": 232,
+  "date": 1641229058390,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "CanadianRed"
+    },
+    {
+      "trait_type": "Beaver/Fur",
+      "value": "beaver_black"
+    },
+    {
+      "trait_type": "Beaver/Mouth",
+      "value": "surprised"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "AviatorHat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VRHeadset"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "LumberJackTop"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

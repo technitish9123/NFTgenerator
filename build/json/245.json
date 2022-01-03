@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #245",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/245.png",
+  "dna": "f01bc4f52b60cab5d826d2ee606f74502a480d5c",
+  "edition": 245,
+  "date": 1641229060857,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Beaver/Fur",
+      "value": "beaver_blue"
+    },
+    {
+      "trait_type": "Beaver/Mouth",
+      "value": "angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "CowboyHat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "WideEyed"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "LeatherJacket"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

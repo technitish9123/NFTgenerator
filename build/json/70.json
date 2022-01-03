@@ -2,33 +2,33 @@
   "name": "Your Collection #70",
   "description": "Remember to replace this description",
   "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/70.png",
-  "dna": "9c76d77e06e929140ef72bbd44b68a87d6b72961",
+  "dna": "cfac3915502c4277bfd844d89e4e1be31ab88d21",
   "edition": 70,
-  "date": 1641190045645,
+  "date": 1641229027076,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter blue background"
+      "value": "ArmyGreen"
     },
     {
-      "trait_type": "hat",
-      "value": "avatar blue hat"
+      "trait_type": "Moose/Fur",
+      "value": "Moose_brown"
     },
     {
-      "trait_type": "jeans",
-      "value": "avatar dark grey jeans"
+      "trait_type": "Moose/Mouth",
+      "value": "surprised"
     },
     {
-      "trait_type": "logo",
-      "value": "avatar purple logo"
+      "trait_type": "Headwear",
+      "value": "DaveyCrocketHat"
     },
     {
-      "trait_type": "shirt",
-      "value": "avatar green shirt"
+      "trait_type": "Eyes",
+      "value": "WideEyed"
     },
     {
-      "trait_type": "shoes",
-      "value": "avatar orange shoes"
+      "trait_type": "Cloth",
+      "value": "LumberJackTop"
     }
   ],
   "compiler": "HashLips Art Engine"

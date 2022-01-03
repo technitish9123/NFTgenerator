@@ -2,33 +2,33 @@
   "name": "Your Collection #112",
   "description": "Remember to replace this description",
   "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/112.png",
-  "dna": "1c760e83d4e61ad8fdb692a826cee947f1efbc86",
+  "dna": "ec9ff6690129a2ad7184a51d0bf61ee11c04cde5",
   "edition": 112,
-  "date": 1641190052389,
+  "date": 1641229035398,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter yellow background"
+      "value": "ArmyGreen"
     },
     {
-      "trait_type": "hat",
-      "value": "avatar yellow hat"
+      "trait_type": "Caribou/Fur",
+      "value": "caribou_red"
     },
     {
-      "trait_type": "jeans",
-      "value": "avatar dark grey jeans"
+      "trait_type": "Caribou/Mouth",
+      "value": "surprised"
     },
     {
-      "trait_type": "logo",
-      "value": "avatar orange logo"
+      "trait_type": "Headwear",
+      "value": "LibreBaseballCap"
     },
     {
-      "trait_type": "shirt",
-      "value": "avatar pink shirt"
+      "trait_type": "Eyes",
+      "value": "VRHeadset"
     },
     {
-      "trait_type": "shoes",
-      "value": "avatar purple shoes"
+      "trait_type": "Cloth",
+      "value": "LumberJackTop"
     }
   ],
   "compiler": "HashLips Art Engine"

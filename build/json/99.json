@@ -2,33 +2,33 @@
   "name": "Your Collection #99",
   "description": "Remember to replace this description",
   "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/99.png",
-  "dna": "c4331094b3fa4f4c6ef6e0c5dad311bc21a23428",
+  "dna": "bb7c0cb5fca306e7eae9ed390f94b37d8d464cf5",
   "edition": 99,
-  "date": 1641190050785,
+  "date": 1641229032853,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter blue background"
+      "value": "CanadianRed"
     },
     {
-      "trait_type": "hat",
-      "value": "avatar white hat"
+      "trait_type": "Moose/Fur",
+      "value": "Moose_red"
     },
     {
-      "trait_type": "jeans",
-      "value": "avatar blue jeans"
+      "trait_type": "Moose/Mouth",
+      "value": "surprised"
     },
     {
-      "trait_type": "logo",
-      "value": "avatar blue logo"
+      "trait_type": "Headwear",
+      "value": "CowboyHat"
     },
     {
-      "trait_type": "shirt",
-      "value": "avatar pink shirt"
+      "trait_type": "Eyes",
+      "value": "VRHeadset"
     },
     {
-      "trait_type": "shoes",
-      "value": "avatar purple shoes"
+      "trait_type": "Cloth",
+      "value": "LibreTshirt"
     }
   ],
   "compiler": "HashLips Art Engine"

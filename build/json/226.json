@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #226",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/226.png",
+  "dna": "8401427a0e84061e57ad3543ecfb5ed201b31333",
+  "edition": 226,
+  "date": 1641229057274,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Beaver/Fur",
+      "value": "beaver_red"
+    },
+    {
+      "trait_type": "Beaver/Mouth",
+      "value": "surprised"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "DaveyCrocketHat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "WideEyed"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "LumberJackTop"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

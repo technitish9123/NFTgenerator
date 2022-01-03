@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #217",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/217.png",
+  "dna": "f1fdba9ed85c983c0a02126bb86a180bcaa73cea",
+  "edition": 217,
+  "date": 1641229055541,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Beaver/Fur",
+      "value": "beaver_blue"
+    },
+    {
+      "trait_type": "Beaver/Mouth",
+      "value": "angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Torque"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "BasketballJersey"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

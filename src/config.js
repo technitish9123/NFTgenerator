@@ -25,18 +25,65 @@ const ethMetadata = {
 //
 const layerConfigurations = [
   {
+    growEditionSizeTo: 50,
+    layersOrder: [
+      { name: "Background" },
+      { name: "Bear/Fur" },
+      { name: "Bear/Mouth" },
+      { name: "Headwear" },
+      { name: "Eyes" },
+      { name: "Cloth" },
+    ],
+   
+  },
+  {
+    growEditionSizeTo: 100,
+    layersOrder: [
+      { name: "Background" },
+      { name: "Moose/Fur" },
+      { name: "Moose/Mouth" },
+      { name: "Headwear" },
+      { name: "Eyes" },
+      { name: "Cloth" },
+    ],
+   
+  },
+  {
+    growEditionSizeTo: 150,
+    layersOrder: [
+      { name: "Background" },
+      { name: "Caribou/Fur" },
+      { name: "Caribou/Mouth" },
+      { name: "Headwear" },
+      { name: "Eyes" },
+      { name: "Cloth" },
+    ],
+   
+  },
+  {
     growEditionSizeTo: 200,
     layersOrder: [
-       { name: "Background" },
-      { name: "hat" },
-       { name: "jeans" },
-      { name: "logo" },
-      { name: "shirt" },
-      { name: "shoes" },
-    //  {name: "Avatar3"}
-     
+      { name: "Background" },
+      { name: "Canadian Goose/Fur" },
+      { name: "Canadian Goose/Mouth" },
+      { name: "Headwear" },
+      { name: "Eyes" },
+      { name: "Cloth" },
     ],
+   
   },
+  {
+    growEditionSizeTo: 250,
+    layersOrder: [
+      { name: "Background" },
+      { name: "Beaver/Fur" },
+      { name: "Beaver/Mouth" },
+      { name: "Headwear" },
+      { name: "Eyes" },
+      { name: "Cloth" },
+    ],
+   
+  }
 ];
 
 const shuffleLayerConfigurations = false;

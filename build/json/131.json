@@ -2,33 +2,33 @@
   "name": "Your Collection #131",
   "description": "Remember to replace this description",
   "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/131.png",
-  "dna": "0ad8f45e888618547eae30c9f6f9dcbddc041cc9",
+  "dna": "decd11d6fbc9bf31bfd43b635766908a53b3a2b0",
   "edition": 131,
-  "date": 1641190054589,
+  "date": 1641229039128,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter pink background"
+      "value": "ArmyGreen"
     },
     {
-      "trait_type": "hat",
-      "value": "avatar yellow hat"
+      "trait_type": "Caribou/Fur",
+      "value": "caribou_blue"
     },
     {
-      "trait_type": "jeans",
-      "value": "avatar tan jeans"
+      "trait_type": "Caribou/Mouth",
+      "value": "angry"
     },
     {
-      "trait_type": "logo",
-      "value": "avatar red logo"
+      "trait_type": "Headwear",
+      "value": "CowboyHat"
     },
     {
-      "trait_type": "shirt",
-      "value": "avatar red shirt"
+      "trait_type": "Eyes",
+      "value": "Happy"
     },
     {
-      "trait_type": "shoes",
-      "value": "avatar purple shoes"
+      "trait_type": "Cloth",
+      "value": "LeatherJacket"
     }
   ],
   "compiler": "HashLips Art Engine"

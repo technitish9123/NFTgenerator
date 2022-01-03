@@ -2,33 +2,33 @@
   "name": "Your Collection #97",
   "description": "Remember to replace this description",
   "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/97.png",
-  "dna": "d05ebd5e9782e2e2246741f667c6ddcc1341cce5",
+  "dna": "f24dcf4d89ca4d628ebba525b8363bcc2c88639c",
   "edition": 97,
-  "date": 1641190050607,
+  "date": 1641229032451,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter yellow background"
+      "value": "LibreBlue"
     },
     {
-      "trait_type": "hat",
-      "value": "avatar white hat"
+      "trait_type": "Moose/Fur",
+      "value": "Moose_red"
     },
     {
-      "trait_type": "jeans",
-      "value": "avatar dark grey jeans"
+      "trait_type": "Moose/Mouth",
+      "value": "surprised"
     },
     {
-      "trait_type": "logo",
-      "value": "avatar black logo"
+      "trait_type": "Headwear",
+      "value": "LibreBaseballCap"
     },
     {
-      "trait_type": "shirt",
-      "value": "avatar white shirt"
+      "trait_type": "Eyes",
+      "value": "Sad"
     },
     {
-      "trait_type": "shoes",
-      "value": "avatar blue shoes"
+      "trait_type": "Cloth",
+      "value": "LibreTshirt"
     }
   ],
   "compiler": "HashLips Art Engine"

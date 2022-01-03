@@ -2,33 +2,33 @@
   "name": "Your Collection #153",
   "description": "Remember to replace this description",
   "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/153.png",
-  "dna": "fa35335e45ecb1483b34b6eec59672e39f377fc2",
+  "dna": "263870e40918197a32858120fe1daf1ca28c6546",
   "edition": 153,
-  "date": 1641190057106,
+  "date": 1641229043396,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter green background"
+      "value": "ArmyGreen"
     },
     {
-      "trait_type": "hat",
-      "value": "avatar grey hat"
+      "trait_type": "Canadian Goose/Fur",
+      "value": "goose_leopard"
     },
     {
-      "trait_type": "jeans",
-      "value": "avatar tan jeans"
+      "trait_type": "Canadian Goose/Mouth",
+      "value": "Dumbfounded"
     },
     {
-      "trait_type": "logo",
-      "value": "avatar green logo"
+      "trait_type": "Headwear",
+      "value": "HockeyHelmet"
     },
     {
-      "trait_type": "shirt",
-      "value": "avatar grey shirt"
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
     },
     {
-      "trait_type": "shoes",
-      "value": "avatar orange shoes"
+      "trait_type": "Cloth",
+      "value": "HockeyJersey"
     }
   ],
   "compiler": "HashLips Art Engine"

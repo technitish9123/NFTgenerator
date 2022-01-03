@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #213",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/213.png",
+  "dna": "324913fba5041374b7e3d16a571ab8df121f7bfc",
+  "edition": 213,
+  "date": 1641229054790,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Beaver/Fur",
+      "value": "beaver_leopard"
+    },
+    {
+      "trait_type": "Beaver/Mouth",
+      "value": "angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Torque"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "LeatherJacket"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

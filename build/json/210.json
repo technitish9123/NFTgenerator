@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #210",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/210.png",
+  "dna": "02122939cb428610646746a75888a2c4b06872ae",
+  "edition": 210,
+  "date": 1641229054252,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Beaver/Fur",
+      "value": "beaver_black"
+    },
+    {
+      "trait_type": "Beaver/Mouth",
+      "value": "surprised"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Torque"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "LibreTshirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

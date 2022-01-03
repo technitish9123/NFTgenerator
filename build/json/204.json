@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #204",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/204.png",
+  "dna": "21ceb80488173ba90f1427d7e642f4f39e1fd76e",
+  "edition": 204,
+  "date": 1641229053078,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LibreBlue"
+    },
+    {
+      "trait_type": "Beaver/Fur",
+      "value": "beaver_black"
+    },
+    {
+      "trait_type": "Beaver/Mouth",
+      "value": "dumbfounded"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Torque"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "WideEyed"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "HockeyJersey"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

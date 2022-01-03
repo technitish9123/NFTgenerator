@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #246",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/246.png",
+  "dna": "91c692b45ad763c6b5f637bdc529f92623dc141d",
+  "edition": 246,
+  "date": 1641229061033,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "CanadianRed"
+    },
+    {
+      "trait_type": "Beaver/Fur",
+      "value": "beaver_leopard"
+    },
+    {
+      "trait_type": "Beaver/Mouth",
+      "value": "surprised"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "CowboyHat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "WideEyed"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "BasketballJersey"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

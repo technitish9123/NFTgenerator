@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #236",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/236.png",
+  "dna": "75e0217f968e0db6354ad25f8c1a835bc9b281d0",
+  "edition": 236,
+  "date": 1641229059126,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Beaver/Fur",
+      "value": "beaver_leopard"
+    },
+    {
+      "trait_type": "Beaver/Mouth",
+      "value": "angry"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "LibreBaseballCap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "TurtleNeck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

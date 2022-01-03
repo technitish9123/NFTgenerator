@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #244",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/244.png",
+  "dna": "61fc1e982b06502d8f3daaa04134ad893c5bcf4a",
+  "edition": 244,
+  "date": 1641229060673,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LibreBlue"
+    },
+    {
+      "trait_type": "Beaver/Fur",
+      "value": "beaver_brown"
+    },
+    {
+      "trait_type": "Beaver/Mouth",
+      "value": "dumbfounded"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "CowboyHat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "TurtleNeck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

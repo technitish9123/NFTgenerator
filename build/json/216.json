@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #216",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/216.png",
+  "dna": "b94be28d5750fcb9193505a28ba42b6e70b29878",
+  "edition": 216,
+  "date": 1641229055355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Beaver/Fur",
+      "value": "beaver_white"
+    },
+    {
+      "trait_type": "Beaver/Mouth",
+      "value": "bored"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "LibreBaseballCap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VRHeadset"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "TurtleNeck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
