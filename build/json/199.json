@@ -2,17 +2,17 @@
   "name": "Your Collection #199",
   "description": "Remember to replace this description",
   "image": "ipfs://QmYxy6YxtnbenFpMyuJD9vCzn68PJiHdiEeht3qUWWbxrk/199.png",
-  "dna": "168773281d59fa084734d594401054626e1412cd",
+  "dna": "d3694c5c44574cc16a0eb002ce96b5b5910a346c",
   "edition": 199,
-  "date": 1641106910055,
+  "date": 1641190061798,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "highlighter green background"
+      "value": "highlighter light blue background"
     },
     {
       "trait_type": "hat",
-      "value": "avatar white hat"
+      "value": "avatar pink hat"
     },
     {
       "trait_type": "jeans",
@@ -20,15 +20,15 @@
     },
     {
       "trait_type": "logo",
-      "value": "avatar blue logo"
+      "value": "avatar cyan logo"
     },
     {
       "trait_type": "shirt",
-      "value": "avatar cyan shirt"
+      "value": "avatar orange shirt"
     },
     {
       "trait_type": "shoes",
-      "value": "avatar blue shoes"
+      "value": "avatar cyan shoes"
     }
   ],
   "compiler": "HashLips Art Engine"

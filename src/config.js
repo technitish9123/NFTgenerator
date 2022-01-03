@@ -18,7 +18,6 @@ const ethMetadata = {
       address: "0x10fD6725Ca9597945F9310Ac794d109c4D4f6032",
       share: 1000,
     }
-    
   ],
 };
 
